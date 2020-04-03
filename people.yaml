@@ -1,0 +1,26 @@
+-Aigerim:
+    name: Aigerim 
+    job: Devops
+    salary: 150
+    skills:      
+        -scrum
+        -active directory        
+        -gitlab
+        -SQL
+    team members:
+      -Marina:
+        name: Marina
+        job: Devops
+        salary: 150
+        skills:
+          -scrum
+          -active directory
+          -linux
+       -Dane:
+         name: Dane
+         job: Devops
+         salary: 150
+         skill:
+           -scrum
+           -salesforce
+           -MongoDb
